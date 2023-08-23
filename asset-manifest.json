@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/angiemarz/aluraflix55.git/static/css/main.1740a92f.css",
+    "main.js": "/angiemarz/aluraflix55.git/static/js/main.275e7890.js",
+    "static/js/787.a582c3f2.chunk.js": "/angiemarz/aluraflix55.git/static/js/787.a582c3f2.chunk.js",
+    "static/media/bannerCard.png": "/angiemarz/aluraflix55.git/static/media/bannerCard.6a23499e8473f56f164e.png",
+    "static/media/slider1.png": "/angiemarz/aluraflix55.git/static/media/slider1.fe2e262c9024cbfc883e.png",
+    "index.html": "/angiemarz/aluraflix55.git/index.html",
+    "main.1740a92f.css.map": "/angiemarz/aluraflix55.git/static/css/main.1740a92f.css.map",
+    "main.275e7890.js.map": "/angiemarz/aluraflix55.git/static/js/main.275e7890.js.map",
+    "787.a582c3f2.chunk.js.map": "/angiemarz/aluraflix55.git/static/js/787.a582c3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1740a92f.css",
+    "static/js/main.275e7890.js"
+  ]
+}
